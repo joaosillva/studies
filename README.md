@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 09/01 - Assistido módulo de **[Fundamentos CSS]()** - Fontes e textos, Cores e fundos 
 - 08/01 - Assistido módulo de **[Fundamentos CSS]()** - Conhecendo o CSS, Box model 
 - 07/01 - Assistido módulo de **[Fundamentos HTML]()** - Elementos estruturais, Caminhos absolutos e relativos
 - 06/01 - Assistido módulo de **[Fundamentos HTML]()** - Primeiros passos, Atributos, Elementos de conteúdo

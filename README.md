@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 11/01 - Desenvolvido parte 1 do desafio **[Local turístico](https://github.com/joaosillva/local-turistico)**
 - 10/01 - Desenvolvido projeto **[Página de receita](https://github.com/joaosillva/pagina-de-receita)**
 - 09/01 - Assistido módulo de **[Fundamentos CSS]()** - Fontes e textos, Cores e fundos 
 - 08/01 - Assistido módulo de **[Fundamentos CSS]()** - Conhecendo o CSS, Box model 

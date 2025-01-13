@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 13/11 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** 
 - 12/01 - Desenvolvido parte 2 do desafio **[Local turístico](https://github.com/joaosillva/local-turistico)**
 - 11/01 - Desenvolvido parte 1 do desafio **[Local turístico](https://github.com/joaosillva/local-turistico)**
 - 10/01 - Desenvolvido projeto **[Página de receita](https://github.com/joaosillva/pagina-de-receita)**

@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 15/01 - Desenvolvido parte 2 do desafio **[Flutuar](https://github.com/joaosillva/flutuar)**
 - 14/01 - Desenvolvido parte 1 do desafio **[Flutuar](https://github.com/joaosillva/flutuar)**
 - 13/01 - Desenvolvido projeto **[Móveis customizados](https://github.com/joaosillva/moveis-customizados)**
 - 13/01 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** 

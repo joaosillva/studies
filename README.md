@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 18/01 - Desenvolvido parte 2 do desafio **[Rocket.sect](https://github.com/joaosillva/rocket-sect)**
 - 17/01 - Desenvolvido parte 1 do desafio **[Rocket.sect](https://github.com/joaosillva/rocket-sect)**
 - 16/01 - Desenvolvido projeto **[Treine.me](https://github.com/joaosillva/treine-me)**
 - 16/01 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** - Conhecendo novos conceitos

@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 20/01 - Assistido módulo de **[Layout com CSS]()** - Layout e evolução, CSS flexbox
 - 19/01 - Desenvolvido parte 3 do desafio **[Rocket.sect](https://github.com/joaosillva/rocket-sect)**
 - 18/01 - Desenvolvido parte 2 do desafio **[Rocket.sect](https://github.com/joaosillva/rocket-sect)**
 - 17/01 - Desenvolvido parte 1 do desafio **[Rocket.sect](https://github.com/joaosillva/rocket-sect)**

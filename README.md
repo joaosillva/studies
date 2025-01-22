@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 22/01 - Assistido módulo de **[Layout com CSS]()** - CSS grid
 - 21/01 - Desenvolvido projeto **[Travelgram](https://github.com/joaosillva/travelgram)**
 - 20/01 - Assistido módulo de **[Layout com CSS]()** - Layout e evolução, CSS flexbox
 - 19/01 - Desenvolvido parte 3 do desafio **[Rocket.sect](https://github.com/joaosillva/rocket-sect)**

@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 24/01 - Desenvolvido parte 2 do projeto **[Tech News](https://github.com/joaosillva/tech-news)**
 - 23/01 - Desenvolvido parte 1 do projeto **[Tech News](https://github.com/joaosillva/tech-news)**
 - 22/01 - Assistido módulo de **[Layout com CSS]()** - CSS grid
 - 21/01 - Desenvolvido projeto **[Travelgram](https://github.com/joaosillva/travelgram)**

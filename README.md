@@ -4,6 +4,8 @@
 
 ### Mês de Janeiro 2025
 
+- 26/01 - Desenvolvido parte 2 do desafio **[Portfolio Dev](https://github.com/joaosillva/portfolio-dev)**
+- 25/01 - Desenvolvido parte 1 do desafio **[Portfolio Dev](https://github.com/joaosillva/portfolio-dev)**
 - 24/01 - Desenvolvido parte 2 do projeto **[Tech News](https://github.com/joaosillva/tech-news)**
 - 23/01 - Desenvolvido parte 1 do projeto **[Tech News](https://github.com/joaosillva/tech-news)**
 - 22/01 - Assistido módulo de **[Layout com CSS]()** - CSS grid

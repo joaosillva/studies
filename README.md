@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 28/01 - Desenvolvido parte 1 do projeto **[Estrelas do amanhã](https://github.com/joaosillva/estrelas-do-amanha)**
 - 27/01 - Assistido módulo de **[Formulários]()** - Formulários HTML
 - 26/01 - Desenvolvido parte 2 do desafio **[Portfolio Dev](https://github.com/joaosillva/portfolio-dev)**
 - 25/01 - Desenvolvido parte 1 do desafio **[Portfolio Dev](https://github.com/joaosillva/portfolio-dev)**

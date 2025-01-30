@@ -4,6 +4,7 @@
 
 ### Mês de Janeiro 2025
 
+- 30/01 - Desenvolvido parte 1 do desafio **[Festivite](https://github.com/joaosillva/festivite)**
 - 29/01 - Desenvolvido parte 2 do projeto **[Estrelas do amanhã](https://github.com/joaosillva/estrelas-do-amanha)**
 - 28/01 - Desenvolvido parte 1 do projeto **[Estrelas do amanhã](https://github.com/joaosillva/estrelas-do-amanha)**
 - 27/01 - Assistido módulo de **[Formulários]()** - Formulários HTML
